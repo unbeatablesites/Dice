@@ -7,8 +7,7 @@ public class App {
     }
 
     public static void  doLogic(){
-        System.out.println("Working");
-
+        System.out.println("HERE COMES THE DICE!");
     }
 
 
